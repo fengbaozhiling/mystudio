@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/bootstrap-3.3.5/js/tests/test.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qixi/js/qixi.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/list.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/pages/detail.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/pages/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/js/ui.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhuan/app/lib/dialog/dialog.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
